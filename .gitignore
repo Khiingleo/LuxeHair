@@ -1,0 +1,46 @@
+# ===== Python / Django / Flask =====
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+env/
+*.log
+*.pot
+*.pyc
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+*.env
+
+# ===== Node / React =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# ===== Build output =====
+build/
+dist/
+.cache/
+.next/
+out/
+
+# ===== Environment & Config =====
+.env
+.env.*
+*.local
+
+# ===== IDE & Editor settings =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== OS generated files =====
+.DS_Store
+Thumbs.db
+
