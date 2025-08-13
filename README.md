@@ -1,4 +1,4 @@
-# Booking App
+# LuxeHair Appointment Booking App
 
 A full-stack booking platform that allows clients to easily book services, make payments, and manage their appointments — while providing an admin dashboard for managing services, categories, and client bookings.
 
